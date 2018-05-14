@@ -1,0 +1,90 @@
+
+Applause from Fábio Schmidt and 
+Go to the profile of Mybridge
+Mybridge
+We rank articles for professionals
+Apr 26
+
+Python Top 10 Open Source of the Month (v.Apr 2018)
+For the past month, we ranked nearly 250 Python Open Source Projects to pick the Top 10.
+
+We compared projects with new or major release during this period. Mybridge AI ranks projects based on a variety of factors to measure its quality for professionals.
+
+Average number of Github stars in this edition: 2,135⭐️
+“Watch” Python Top 10 Open Source on Github and get email once a month.
+Topics: HTML Parsing, Unit Testing, Qt, Terminal, Machine Learning, Formatter, Instagram, Site Generator, Twitter, Benchmark
+Open source projects can be useful for programmers. Hope you find an interesting project that inspires you.
+
+
+Course of the month:
+
+A) Beginners: The Python Bible™ | Everything You Need to Program in Python. [7,140 recommends, 4.6/5 stars]
+
+B) Deep Learning: Complete Guide to TensorFlow for Deep Learning with Python. [3,664 recommends, 4.5/5 stars]
+
+
+Rank 1
+Requests-HTML v0.9: HTML Parsing for Humans (writing Python 3) [7385 stars on Github]. Courtesy of Kenneth Reitz
+
+
+……[Using Requests-HTML by Sentdex]
+
+Rank 2
+PyTest v3.5: Python framework that makes it easy to write small tests, yet scales to support complex functional testing [2453 stars on Github]. Courtesy of Pytest-dev
+
+Rank 3
+Lector: qt based ebook reader [327 stars on Github]. Courtesy of BasioMeusPuga
+
+Rank 4
+Asciinema v2.0: Terminal session recorder built in Python [5491 stars on Github]. Courtesy of Asciinema
+
+Rank 5
+Snips-nlu v0.13: Snips Python library to extract meaning from text [1416 stars on Github]. Courtesy of Snips
+
+Rank 6
+Black: The uncompromising Python code formatter [1665 stars on Github]. Courtesy of Łukasz Langa
+
+Rank 7
+Instagram-terminal-news-feed: Instagram in terminal [690 stars on Github]. Courtesy of Bill Cheng
+
+Rank 8
+Makesite: Site/blog generator for Python coders. Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python [481 stars on Github]. Courtesy of Sunaina Pai
+
+Rank 9
+Twitter-scraper: Scrape the Twitter Frontend API without authentication. Built in Python. [832 stars on Github]. Courtesy of Kenneth Reitz
+
+Rank 10
+Fast-Pandas: Benchmark for different operations in pandas against various dataframe sizes. [667 stars on Github]. Courtesy of M. Mansour
+
+
+That’s it for Python Monthly Open Source. If you like this curation, read best daily articles based on your programming skills on our website.
+
+Recommend & share..
+PythonMachine LearningProgrammingSoftware DevelopmentOpen Source
+One clap, two clap, three clap, forty?
+By clapping more or less, you can signal to us which stories really stand out.
+
+Go to the profile of Mybridge
+Mybridge
+We rank articles for professionals
+
+Mybridge for Professionals
+Mybridge for Professionals
+Read more and achieve more
+
+More from Mybridge for Professionals
+Machine Learning Top 10 Articles for the Past Month (v.May 2018)
+Go to the profile of Mybridge
+Mybridge
+More from Mybridge for Professionals
+React.js Top 10 Articles for the Past Month (v.May 2018)
+Go to the profile of Mybridge
+Mybridge
+More from Mybridge for Professionals
+Node.js Top 10 Articles for the Past Month (v.May 2018)
+Go to the profile of Mybridge
+Mybridge
+Responses
+Welington Carlos
+Be the first to write a response…
+Welington Carlos
